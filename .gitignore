@@ -6,3 +6,6 @@ models/cws_model.bin
 models/model_c_dat.bin
 models/model_c_model.bin
 train/
+.classpath
+.project
+.settings/
